@@ -1,0 +1,41 @@
+footer{
+    background-color: #3F4E65;
+}
+.footer1{
+    margin-top: 100px;
+    padding: 71px 214px 100px 177px;
+    display: flex;
+}
+.sultan_text{
+    color: white;
+    font-family: 'Inter';
+    font-size: 11px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.footer-input{
+    height: 20px;
+}
+.post1{
+    margin-right: 20px;
+    width: 300px;
+}
+.site_bar{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter';
+    margin-right: 50px;
+
+    h4{
+        color: white;
+    }
+}
+.footer_link{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.download_post{
+    color: white;
+}

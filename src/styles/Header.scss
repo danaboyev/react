@@ -1,0 +1,41 @@
+.header{
+    background-image: url('../images/bg.svg');
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.aaa{
+    background: linear-gradient(89.86deg, #8A94AB 0.13%, rgba(138, 148, 171, 0) 99.89%);
+    width: 50%;
+    // backdrop-filter: blur(13px);
+}   
+.aaa h1{
+    padding: 98px 79px 40px  20px;
+    width: 50%;
+    color: white;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 70px;
+}
+.aaa .p{
+    font-family: 'Inter';
+    margin-left: 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.but{
+    margin-top: 71px;
+    display: flex;
+    align-items: center;
+}
+.text1{
+    margin-bottom: 40px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-left: 15px;
+    
+}
